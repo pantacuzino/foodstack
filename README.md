@@ -39,3 +39,4 @@ every 30 minutes
 - 19:50 pumpkin seeds | 10g  | 1g
 - 20:20 potatoes | 100g | 20g | basic
 - garlic | 2.5g | 1g | basic
+- 21:00 carrot | 50g | 5g | basic
