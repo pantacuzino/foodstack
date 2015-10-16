@@ -40,3 +40,6 @@ every 30 minutes
 - 20:20 potatoes | 100g | 20g | basic
 - garlic | 2.5g | 1g | basic
 - 21:00 carrot | 50g | 5g | basic
+- http://jn.nutrition.org/content/38/4/527.full.pdf
+- 21:20 beet | 50g | 5g | basic
+- http://www.npr.org/sections/thesalt/2015/10/14/448314966/why-you-might-want-to-be-drinking-beet-juice-at-the-gym
