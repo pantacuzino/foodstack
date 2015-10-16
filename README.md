@@ -34,3 +34,6 @@ every 30 minutes
 - 16:30 lentils | 100g | 20g | acidic
 - 16:50 beef | 100g | 0g | acidic
 - didn't feel that great after the lentils and beef mixture
+- 18:20 cardamom | 1g | 0.5g
+- 19:00 orange juice | 250ml | 25g
+- 19:50 pumpkin seeds | 10g  | 1g
