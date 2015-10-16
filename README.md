@@ -37,3 +37,5 @@ every 30 minutes
 - 18:20 cardamom | 1g | 0.5g
 - 19:00 orange juice | 250ml | 25g
 - 19:50 pumpkin seeds | 10g  | 1g
+- 20:20 potatoes | 100g | 20g | basic
+- garlic | 2.5g | 1g | basic
