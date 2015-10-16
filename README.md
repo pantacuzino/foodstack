@@ -8,3 +8,15 @@ What's the order you are supposed to eat such a meal to have a good digestion? L
 http://www.trueactivist.com/6-food-combining-rules-for-optimal-digestion/ of course there's no links to where the information was grabbed ... maybe from this book http://www.amazon.com/Eating-Alive-Prevention-Thru-Digestion/dp/0969358601
 
 https://en.wikipedia.org/wiki/Atole
+
+every 30 minutes
+
+- bee pollen | 20g
+- cranberries | 50g
+- oats | 70g
+- potatoes | 100g
+- macadamia nuts | 10g
+- walnuts | 10g
+- tomatoes | 50g
+- bell pepper | 50g
+- garlic | 2.5 g
