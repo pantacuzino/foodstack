@@ -11,12 +11,13 @@ https://en.wikipedia.org/wiki/Atole
 
 every 30 minutes
 
-- bee pollen | 20g
-- cranberries | 50g
-- oats | 70g
-- potatoes | 100g
-- macadamia nuts | 10g
-- walnuts | 10g
-- tomatoes | 50g
-- bell pepper | 50g
-- garlic | 2.5 g
+- product | quantity | carbohydrates |
+- bee pollen | 20g | 
+- cranberries | 50g | 6g
+- oats | 70g | 9g
+- potatoes | 100g | 20g
+- macadamia nuts | 10g | 2g
+- walnuts | 10g | 2g
+- tomatoes | 50g | 2g
+- bell pepper | 50g | 2g
+- garlic | 2.5 g | 1g
