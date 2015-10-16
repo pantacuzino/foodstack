@@ -21,3 +21,4 @@ every 30 minutes
 - tomatoes | 50g | 2g
 - bell pepper | 50g | 2g
 - garlic | 2.5 g | 1g
+- hemp seeds | 35g | 2g
