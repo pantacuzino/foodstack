@@ -14,13 +14,23 @@ http://www.regenerate-wellness.com/alkalineacidicfood.html
 every 30 minutes
 
 - product | quantity | carbohydrates | acidic or basic
-- bee pollen | 20g | | 
-- cranberries | 50g | 6g | acidic
-- oats | 70g | 9g | acidic 
-- potatoes | 100g | 20g | basic 
-- macadamia nuts | 10g | 2g |
-- walnuts | 10g | 2g | acidic 
-- tomatoes | 50g | 2g | basic
+- 11:00 bee pollen | 20g | | 
+- 11:30 cranberries | 50g | 6g | acidic
+- 12:00 oats | 70g | 9g | acidic 
+- 12:30 potatoes | 100g | 20g | basic 
+- 13:00 macadamia nuts | 10g | 2g | Tyrosine 0.511 g in 100g
+- 13:30 walnuts | 10g | 2g | acidic 
+- cocoa | 10g
+- 14:00 tomatoes | 50g | 2g | basic
 - bell pepper | 50g | 2g | basic 
 - garlic | 2.5 g | 1g | basic
-- hemp seeds | 35g | 2g | acidic
+- 14:30 hemp seeds | 35g | 2g | acidic
+- 15:00 cauliflower | 50g | 2g | basic
+- has 80% vitamin c
+- http://www.bonappetit.com/test-kitchen/common-mistakes/article/lentils-common-mistakes
+- http://www.thekitchn.com/how-to-cook-lentils-on-the-stove-116321
+- 15:30 radish | 50g | 2g | basic
+- lettuce | 100g | 3g | basic
+- 16:30 lentils | 100g | 20g | acidic
+- 16:50 beef | 100g | 0g | acidic
+- didn't feel that great after the lentils and beef mixture
