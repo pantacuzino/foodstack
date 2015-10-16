@@ -9,16 +9,18 @@ http://www.trueactivist.com/6-food-combining-rules-for-optimal-digestion/ of cou
 
 https://en.wikipedia.org/wiki/Atole
 
+http://www.regenerate-wellness.com/alkalineacidicfood.html
+
 every 30 minutes
 
-- product | quantity | carbohydrates |
-- bee pollen | 20g | 
-- cranberries | 50g | 6g
-- oats | 70g | 9g
-- potatoes | 100g | 20g
-- macadamia nuts | 10g | 2g
-- walnuts | 10g | 2g
-- tomatoes | 50g | 2g
-- bell pepper | 50g | 2g
-- garlic | 2.5 g | 1g
-- hemp seeds | 35g | 2g
+- product | quantity | carbohydrates | acidic or basic
+- bee pollen | 20g | | 
+- cranberries | 50g | 6g | acidic
+- oats | 70g | 9g | acidic 
+- potatoes | 100g | 20g | basic 
+- macadamia nuts | 10g | 2g |
+- walnuts | 10g | 2g | acidic 
+- tomatoes | 50g | 2g | basic
+- bell pepper | 50g | 2g | basic 
+- garlic | 2.5 g | 1g | basic
+- hemp seeds | 35g | 2g | acidic
