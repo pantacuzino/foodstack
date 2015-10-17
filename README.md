@@ -43,3 +43,4 @@ every 30 minutes
 - http://jn.nutrition.org/content/38/4/527.full.pdf
 - 21:20 beet | 50g | 5g | basic
 - http://www.npr.org/sections/thesalt/2015/10/14/448314966/why-you-might-want-to-be-drinking-beet-juice-at-the-gym
+- Red Cabbage is considered the most dense vegetable form of L-glutamine. An amazing way of bringing in the high quality nutrition from red cabbage is through juicing or shredding & fermenting it. Red cabbage sauerkraut made with apple cider vinegar may be one of the most bioavailable ways to consume L-glutamine; this is due to the deep fermentation processes that create an abundance of enzymes and good bacteria that allow amino acids and other nutrients to be better absorbed and utilized within the body.
