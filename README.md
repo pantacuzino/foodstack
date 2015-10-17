@@ -44,3 +44,10 @@ every 30 minutes
 - 21:20 beet | 50g | 5g | basic
 - http://www.npr.org/sections/thesalt/2015/10/14/448314966/why-you-might-want-to-be-drinking-beet-juice-at-the-gym
 - Red Cabbage is considered the most dense vegetable form of L-glutamine. An amazing way of bringing in the high quality nutrition from red cabbage is through juicing or shredding & fermenting it. Red cabbage sauerkraut made with apple cider vinegar may be one of the most bioavailable ways to consume L-glutamine; this is due to the deep fermentation processes that create an abundance of enzymes and good bacteria that allow amino acids and other nutrients to be better absorbed and utilized within the body.
+
+- Tryptophan is made available in the body through the ingestion of protein and its subsequent chemical interaction with vitamin B-6. Therefore, a deficiency in vitamin B-6 is likely to result in an inadequate supply of tryptophan. These two substances are converted to an essential neurotransmitter called serotonin. Since serotonin cannot be produced in the body without tryptophan, it is imperative that tryptophan be a part of a regular diet.
+- In its effort to prevent pellagra, a disease caused by tryptophan deficiency, the World Health Organization suggests a daily of 3.5 milligrams per kilogram of weight,
+- http://www.bitterpoison.com/protein/11965/
+- http://nutritionalbalancing.org/center/htma/science/articles/copper-toxicity.php
+- High levels of manganese in the body, particularly in the brain, are associated with neurological disorders. Symptoms of manganese toxicity include headaches, tremors, loss of appetite, muscle rigidity, leg cramps and hallucinations. Some people with manganese toxicity may get extremely irritable and be prone to acts of violence. Certain populations are at a greater risk of manganese toxicity, including people with liver damage or alcoholism. People who work in steel mills or mines, who regularly inhale manganese vapors, are also at a greater risk of manganese toxicity.
+
