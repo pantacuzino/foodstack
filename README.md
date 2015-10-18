@@ -51,3 +51,5 @@ every 30 minutes
 - http://nutritionalbalancing.org/center/htma/science/articles/copper-toxicity.php
 - High levels of manganese in the body, particularly in the brain, are associated with neurological disorders. Symptoms of manganese toxicity include headaches, tremors, loss of appetite, muscle rigidity, leg cramps and hallucinations. Some people with manganese toxicity may get extremely irritable and be prone to acts of violence. Certain populations are at a greater risk of manganese toxicity, including people with liver damage or alcoholism. People who work in steel mills or mines, who regularly inhale manganese vapors, are also at a greater risk of manganese toxicity.
 
+
+- Vitamin C	212% in bell pepper
