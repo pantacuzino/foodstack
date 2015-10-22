@@ -53,3 +53,5 @@ every 30 minutes
 
 
 - Vitamin C	212% in bell pepper
+
+- Distribution of sugar intake across the day. Let's say: morning: 20g, afternoon: 17g, evening: 10g.
