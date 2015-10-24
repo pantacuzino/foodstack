@@ -55,3 +55,5 @@ every 30 minutes
 - Vitamin C	212% in bell pepper
 
 - Distribution of sugar intake across the day. Let's say: morning: 20g, afternoon: 17g, evening: 10g. An example calculus for october 21: morning: 15g 
+
+- I couldn't eat beans. I 300g of beans yesterday in two meals. Today I didn't want to eat them. Mentally of course.
